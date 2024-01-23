@@ -14,6 +14,8 @@ Both the frontend and backend are hosted on Azure virtual machines.
 - React
 - Redux
 - Material UI
+- React Hook Form
+
 
 ## Backend Technologies Used
 
@@ -41,6 +43,7 @@ Ensure that both servers are started on the appropriate ports to enable proper c
 5. **Responsive Design:** The application is designed to be responsive, providing a seamless experience across devices.
 6. **Navigation Layout:** Intuitive navigation layout for easy accessibility.
 7. **Search Functionality:** Easily search for agents or tickets to streamline the management process.
+8. **Snackbar:** To notify user about success / error during api call.
 
 
 ## Backend Features
